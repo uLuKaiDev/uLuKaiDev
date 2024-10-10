@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uLuKaiDev, Airline Captain, gamer, nerd..
-- 👀 I’m interested in Gamedevelopment via the Godot engine
-- 🌱 I’m currently learning via Boot.dev
+- 👀 I’m interested in Gamedevelopment via the Godot engine as well as programming in general
+- 🌱 I’m currently learning via Boot.dev, as well as learning Python and GDScript on my own
 - 💞️ I’m looking to collaborate on nothing just yet, this is all for learning purposes and as a fun hobby
 - 📫 How to reach me: Pretty sure you can leave a messsage on github somewhere, not sure where though
 - 😄 Pronouns: not important
